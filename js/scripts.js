@@ -23,11 +23,10 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m from Doligo Studio',
-    'I design and code things on the web',
-    'I\'m currently accepting work.<br> You can contact me at <a href="mailto:hi@doligo.net">hi@doligo.net</a>',
+    'You can contact me at <a href="mailto:hi@doligo.net">hi@doligo.net</a>',
     '<a target="_blank" href="https://twitter.com/doligonet">twitter.com/doligonet</a><br><a target="_blank" href="https://github.com/doligonet">github.com/doligonet</a>',
     getCurrentTime(),
-    '👀 J.'
+    '👀 D.'
   ]
 
   var getFontSize = function() {
